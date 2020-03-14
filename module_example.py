@@ -12,11 +12,12 @@ def mults(n):
 def divs(n):
 	print(1000000 / n)
 	
-# All code inside of the main() function will execute ONLY when 
-# the module_ex.py file is run and NOT if is imported in another file
 def main():
 	print('this came from the module named module_ex')
 
-#this code says if you are running this file, then run the main function above
+# The __name__ == "__main__" function auto-runs all within (here just main())
+# upon module execution (i.e. when python module_example.py file is run)
+# Note, when module_example is imported into a file, __name__ == "__main__"
+# is not called and main() would need to be called explicitily. 
 if __name__ == "__main__":
 	main()
