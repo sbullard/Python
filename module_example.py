@@ -1,5 +1,4 @@
-# This is simple module but explains __name__ == "__main__"
-# It is used in the modules_and_packages notebook
+# This is simple module is used with the modules_and_packages notebook
 
 def add_nums(n):
 	print(n + n)
