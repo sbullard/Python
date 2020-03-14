@@ -1,4 +1,4 @@
-# This is simple module is used with the modules_and_packages notebook
+# This simple module is used with the modules_and_packages notebook
 
 def add_nums(n):
 	print(n + n)
