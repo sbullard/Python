@@ -1,0 +1,17 @@
+[
+ {
+  "origin" : "New York",
+  "destination" : "Paris",
+  "duration" : 435
+ },
+ {
+  "origin" : "Moscow",
+  "destination" : "Paris",
+  "duration" : 235	
+ },
+ {
+  "origin" : "Lima",
+  "destination" : "New York",
+  "duration" : 455
+ }
+]

@@ -1,0 +1,2 @@
+Welcome to the files tutorial.
+First will see how Python can be used to work with text files.
