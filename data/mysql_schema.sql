@@ -1,0 +1,1 @@
+create table movie (id INT NOT NULL AUTO_INCREMENT, title VARCHAR(75) NOT NULL, year_ INT NOT NULL, duration INT NOT NULL, director VARCHAR(75) NOT NULL, PRIMARY KEY (id));

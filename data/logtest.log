@@ -1,0 +1,4 @@
+INFO 2020-03-14 17:13:39,116 - quadratic_formula(1, 0, -4)
+DEBUG 2020-03-14 17:13:39,116 - # Compute the discriminant
+DEBUG 2020-03-14 17:13:39,116 - # Compute the two roots
+DEBUG 2020-03-14 17:13:39,116 - # Return the roots
